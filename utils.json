@@ -1,0 +1,16 @@
+{
+    "name": "rest-render_engine",
+    "deps": {
+        "rest-storage": {
+            "owner": "aramtech",
+            "repo": "rest-storage",
+            "version": "0.2.0",
+            "update_policy": "minor"
+        }
+    },
+    "private": false,
+    "owner": "aramtech",
+    "hash": "-grBIMlHQRvWYtKPxs5bjmkBb-ADCNUeiR3cR9c5bcg",
+    "version": "0.4.0",
+    "description": ""
+}
