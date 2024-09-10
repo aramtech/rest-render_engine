@@ -1,0 +1,21 @@
+{
+    "template": {
+        "wrapped_final_html": "",
+        "final_template": ""
+    },
+    "save": {
+        "dir": "reports/daily/_2022-08-28T22_00_00.000Z",
+        "skeleton": true,
+        "data": true,
+        "rendered_template": true,
+        "pdf": true
+    },
+    "style": {
+        "css": "\n        body, html {\n          position:relative;\n          padding:0px;\n          margin:0px;\n        }\n\n        @media print {\n          body, html {\n            padding:0px;\n            margin:0px;\n          }\n        }\n\n      ",
+        "wrap": true,
+        "load_images": false,
+        "load_css": false,
+        "paper": "A4",
+        "margin": 30
+    }
+}
